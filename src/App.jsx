@@ -106,12 +106,12 @@ const assistantOptions = {
     language: "es_ES_ElviraNeural",
   },
   voice: {
-    provider: "playht",
-    voiceId: "jennifer",
+    provider: "Azure",
+    voiceId: "es-ES-ElviraNeural",
   },
   model: {
     provider: "openai",
-    model: "gpt-4",
+    model: "gpt-4o-mini",
     messages: [
       {
         role: "system",
