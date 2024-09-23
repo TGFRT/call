@@ -99,7 +99,7 @@ const App = () => {
 
 const assistantOptions = {
   name: "Vapi’s Pizza Front Desk",
-  firstMessage: "Vappy’s Pizzeria speaking, how can I help you?",
+  firstMessage: "Llama a IngenIAr",
   transcriber: {
     provider: "deepgram",
     model: "nova-2",
