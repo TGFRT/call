@@ -101,12 +101,12 @@ const assistantOptions = {
   name: "Vapi’s Pizza Front Desk",
   firstMessage: "¿Hola, soy Ingeniar, en que puedo ayudarte?",
   transcriber: {
-    provider: "deepgram",
-    model: "azure",
-    language: "es_ES_ElviraNeural",
+    provider: "talkscriber",
+    model: "whisper",
+    language: "es",
   },
   voice: {
-    provider: "Azure",
+    provider: "azure",
     voiceId: "es-ES-ElviraNeural",
   },
   model: {
