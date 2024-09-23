@@ -154,7 +154,7 @@ const PleaseSetYourPublicKeyMessage = () => {
         boxShadow: "0 2px 5px rgba(0,0,0,0.2)",
       }}
     >
-      Is your Vapi Public Key missing? (recheck your code)
+      Hay un problema que ya se esta solucionando
     </div>
   );
 };
