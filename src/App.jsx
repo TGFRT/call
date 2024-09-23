@@ -167,9 +167,9 @@ const ReturnToDocsLink = () => {
       rel="noopener noreferrer"
       style={{
         position: "fixed",
-        top: "25px",
-        right: "25px",
-        padding: "5px 10px",
+        top: "1px",
+        right: "1px",
+        padding: "1px 1px",
         color: "#fff",
         textDecoration: "none",
         borderRadius: "5px",
