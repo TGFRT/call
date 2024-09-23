@@ -196,7 +196,7 @@ const PleaseSetYourPublicKeyMessage = () => {
 const ReturnToDocsLink = () => {
   return (
     <a
-      href="https://docs.vapi.ai"
+      href="https://ingeniar.online"
       target="_blank"
       rel="noopener noreferrer"
       style={{
