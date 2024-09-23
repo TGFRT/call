@@ -99,11 +99,11 @@ const App = () => {
 
 const assistantOptions = {
   name: "Vapi’s Pizza Front Desk",
-  firstMessage: "Llama a IngenIAr",
+  firstMessage: "¿Hola, soy Ingeniar, en que puedo ayudarte?",
   transcriber: {
     provider: "deepgram",
-    model: "nova-2",
-    language: "en-US",
+    model: "azure",
+    language: "es_ES_ElviraNeural",
   },
   voice: {
     provider: "playht",
